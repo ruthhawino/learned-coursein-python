@@ -26,7 +26,7 @@ count(x)
 
 
 #Write a python function that accepts the radius of circle as 
-# parameter and retur the radius
+# parameter and returns the radius of the circle.
 
 def area(radius):
     area = 3.14*radius*radius
